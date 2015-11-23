@@ -12,7 +12,7 @@ We love this community. Our goal is to get rid of the "crap" so the good content
 
 Make sure you are ok with exerting your power, but understand when it is necessary to do so to keep the peace.
 
-We are open for any critic, feedback and guidance received from the community as we are a part of it.
+We are open to any critic, feedback and guidance from the community as we are a part of it.
 
 Room owners step in the moment we notice site users are targeted by any room member. This goes without warning.
 
