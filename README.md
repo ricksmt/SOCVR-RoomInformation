@@ -2,11 +2,11 @@
 
 The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing and clean-up efforts.
 
-The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing `[cv-pls]` requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
 ## What sort of behavior is expected?
 
-We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
+We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
 
 **No matter what is asked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.**
 
@@ -14,7 +14,7 @@ Make sure you are ok with exerting your power, but understand when it is necessa
 
 We are open for any critic, feedback and guidance received from the community as we are a part of it.
 
-Room Owners step in the moment we notice site users are targeted by any room member. This goes without warning.
+Room owners step in the moment we notice site users are targeted by any room member. This goes without warning.
 
 ##What are the chat room rules?
 
@@ -22,23 +22,22 @@ To be an effective member of this room you'll need access to the review queues a
 
 To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
 
-###General expectations for Members:
-* [cv-pls] should not be a habit for users. Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
-* [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
-* Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
-* We don't post feedback on success (or failure) of a [cv-pls] request. (*No boom*)
-* Most content has some value, work **with** the OP to get their post into shape.
+###General expectations for members:
+* Posting `[cv-pls]`'es should not become a habit. (Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.)
+* Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. `[cv-pls]` means "close vote _please_", not "close vote or I'll stab you.")
+* Avoid extended discussion about a `[cv-pls]`. (We don't have to agree about a close request. We're not a democracy. However, users that are posting `[cv-pls]`'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
+* Do not post feedback on success (or failure) of a `[cv-pls]` request. (I.e., no "boom"ing.)
+* Posts are to be actively handled by only one member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
+* Work **with** the OP to get their post into shape; most content has some value.
+* Do not ask for up or down votes on post.
 * De-escalate in case of disagreement. 
+* In absence of all room owners, the members lead-by-example.
+* Tag burniation/cleanup requests _must_ be backed by an MSO post with significant community support.
+* All members are accountable for their actions if/when such accountability is requested on meta.
+* Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
 * Keep it professional, keep a high standard.
-* All members are accountable for their actions when and if such accountability is requested on meta.
-* Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with significant community support.
-* A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
-* Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
-* All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
-* Do not ask for up or down votes on questions or answers.
-* In absence of all Room Owners, the members lead-by-example.
 
-###Expectations for Room Owners:
+###Expectations for room owners:
 * Is a role model for the kind of participation expected.
 * Makes the final call in any dispute, unless the RO team decide otherwise.
 * Clears messages that are starred with a tag from the starboard
@@ -50,18 +49,18 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * Moves messages or conversations to SO Tavern or a trash bin if necessary.
 
 ## Who are the room owners?
-The room owners are
+The current room owners are:
 
-* [rene](http://stackoverflow.com/users/578411/rene)
-* [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
-* [durron597](http://stackoverflow.com/users/1768232/durron597)
-* [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
+* [rene](http://stackoverflow.com/users/578411/rene),
+* [gunr2171](http://stackoverflow.com/users/1043380/gunr2171),
+* [durron597](http://stackoverflow.com/users/1768232/durron597),
+* [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver).
 
 [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once and awhile.
 
 ## Why do we need room owners?
 
-We really shouldn't need room owners, but because we do we need to establish some guidelines. Room Owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
+We really shouldn't need room owners, but because we do we need to establish some guidelines. Room owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
 
 The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight. We lead by example to prevent the room become the mob.
 
