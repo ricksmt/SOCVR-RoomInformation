@@ -7,7 +7,7 @@ until no questions have that tag anymore. The goal is to keep the value and get 
 
 This search query list [candiates](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano)
 
-We currently selected the followig tags from that list:
+We currently selected the following tags from that list:
 
  - [once](http://meta.stackoverflow.com/questions/258571/burninate-once)
  - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)
